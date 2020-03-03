@@ -1,0 +1,19 @@
+A/C,STATUS,CREW,LENGTH [m],WIDTH [m],HEIGHT [m],EMPTY WEIGHT [Kg],MTOW [Kg],ENGINE,THRUST [lb],CEILING [m],RANGE [Km],SPEED [kts],S [m2]
+L-159 ALCA,Active,1,12.72,9.64,4.87,4350,8000,Turbo-fan Honeywell F124-GA-100,6330,13200,1800,505,18.8
+Cessna A-37,Retired,2,8.6,10.9,2.7,2815,6350,Turbojet GE J85-GE-17A,2850,12730,1500,440,17.09
+A10,Active,1,16.16,17.42,4.42,13154,22950,2 X GE TF34-GE-100 turbofan,18130,13636,1287.48,364.97,47
+SU 25,Active,1,15.33,14.36,4.8,10740,20500,2x Tumansky R-195,18960,7000,1375,513,33.7
+F-100D,Retired,1,15.2,NaN,4.95,9500,15800,P&W J57 C-21,1200,15000,3210,750,37
+AV-8B Harrier,Active,1,14.12,NaN,3.55,6340,14100,RR Pegasus F402 vectored thrust turbofan,23500,2200,585,22.61,
+F/A-18 Hornet,Active,2,17.1,12.3,4.7,11200,23400,2× turbofán General Electric F404-GE-402.,22000,15240,2017,1034,38
+Northrop YA-9,Canceled,1,16.3,16.3,5.4,10467,12961,2× turbofán Lycoming YF102-LD-100.,15000,NaN,NaN,451.944,53.88
+Ilyushin Il-102,Prototype,2,17.5,16.9,5.08,13000,22000,2 × Klimov RD-33I turbofan engines,22000,NaN,3000,510,63.5
+AMX International AMX,Active,1,13.23,8.87,4.55,6700,13000," 1 × Rolls-Royce Spey 807 turbofan engine,",11000,13000,3336,569,21
+Kawasaki T-4,Active,2,13,9.94,4.6,3700,7500,"2 × Ishikawajima-Harima F3-IHI-30 turbofans,",7340,15240,1668,560,21
+Xian JH-7,Active,2,22.32,12.8,6.22,14500,28475,2 × Xian WS-9 Qinling turbofan engines,24400,16000,1760,976,22.32
+SEPECAT Jaguar,Retired,1,16.83,8.69,4.89,7000,15700,"2 × Rolls-Royce Turbomeca Adour Mk.102 afterburning turbofan engines,",10220,14000,1902,730,24.18
+British Aerospace Harrier II,Retired,1,14.12,9.25,3.56,5700,14061," 1 × Rolls-Royce Pegasus Mk. 105 vectored thrust turbofan,",21750,15170,3256,575.054,22.6
+Soko J-22 Orao,Active,1,13.02,9.3,4.52,5500,11080," 2 × Orao/Turbomecanica-built Rolls-Royce Viper Mk 633-47 turbojets,",8000,15000,1320,610,26
+Dassault-Breguet Super Étendard,Retired,1,14.31,9.6,3.96,6500,12000," 1 × Snecma Atar 8K-50 turbojet,",11000,13700,1820,651,28.4
+Grumman A-6 Intruder,Retired,2,16.69,7.67,4.93,12093,27397, 2 × Pratt & Whitney J52-P8B turbojets,18600,12900,5219,560,49.14
+Republic F-105 Thunderchief,Retired,1,19.63,10.65,5.99,12181,23967,1 × Pratt & Whitney J75-P-19W afterburning turbojet,14300,14800,3550,1192.225,35.76
